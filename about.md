@@ -53,7 +53,7 @@ Fall 2019 | **Pattern Recognition** , M.Sc., Instructor: Dr. Morteza Analoui
 
 Fall 2018 | **Neural Networks** , M.Sc., Instructor: Dr. Naser Mozayeni
 
-Teaching
+### Teaching
 
 2019 | **Teach fundamental of Machine Learning and its use cases in industry** in Iran Research Institute of Petroleum Industry.
 
