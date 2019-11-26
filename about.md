@@ -5,13 +5,9 @@ permalink: /about/
 published: true
 ---
 
-Some information about you!
-
 # Soroush Javdan
 
 ## Contact me
-Phone: +98 9196070937
-Skype: soroushjavdan
 Email: soroush\_javdan@comp.iust.ac.ir
 
 ## Education
@@ -105,14 +101,14 @@ Teaching
 
 **Develop software to help optimizing control valve in order to energy saving**** in Gheshm Sarkhun Gas Refinery**; work as a freelancer for Iran Research Institute of Petroleum Industry
 
-# Computer Skills
+## Computer Skills
 
 - **Programming               ** Python, Jave, Matlab, Kotlin
  **Languages       **
 - **Software Packages    ** Pytorch, Keras, TensorFlow, skit-learn, Gensim, Android Framework
 **and Frameworks**
 
-# Interests
+## Interests
 
  Water Polo (professional)    Swimming (professional)
 
@@ -121,5 +117,3 @@ Teaching
  Traveling      Volunteering
 
  Gardening
-
-
