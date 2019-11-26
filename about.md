@@ -47,13 +47,13 @@ A member of Future Network and Artificial Intelligent Lab at Iran University of 
 
 ### Teacher Assistance
 
-Fall 2019 | **Natural Language Processing** , M.Sc., Instructor: Dr. Behrouz Minaei Bidgoli
+Fall 2019 \| **Natural Language Processing** , M.Sc., Instructor: Dr. Behrouz Minaei Bidgoli
 
-Fall 2019 | **Machine Translation** , M.Sc., Instructor: Dr. Behrouz Minaei Bidgoli
+Fall 2019 \| **Machine Translation** , M.Sc., Instructor: Dr. Behrouz Minaei Bidgoli
 
-Fall 2019 | **Pattern Recognition** , M.Sc., Instructor: Dr. Morteza Analoui
+Fall 2019 \| **Pattern Recognition** , M.Sc., Instructor: Dr. Morteza Analoui
 
-Fall 2018 | **Neural Networks** , M.Sc., Instructor: Dr. Naser Mozayeni
+Fall 2018 \| **Neural Networks** , M.Sc., Instructor: Dr. Naser Mozayeni
 
 ### Teaching
 
