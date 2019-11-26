@@ -35,7 +35,7 @@ S. Javdan, K. Darvishi, T. Shangipour Ataei, B. Minaei-Bidgoli, &quot;Offensive 
 
 S. Javdan, T. Shangipour Ataei, K. Darvishi, M. Analoui, &quot;Personalizing Dialogue Agent via Improved Meta-Learning&quot;, under review.
 
-T. Shangipour Ataei, K. Darvishi, S. Javdan ,B. Minaei-Bidgoli, S. Eetemadi Pars-ABSA: an Aspect-based Sentiment Analysis dataset for Persian;, preprint available at [arxiv.org(https://arxiv.org/pdf/1908.01815.pdf).
+T. Shangipour Ataei, K. Darvishi, S. Javdan ,B. Minaei-Bidgoli, S. Eetemadi Pars-ABSA: an Aspect-based Sentiment Analysis dataset for Persian;, preprint available at [arxiv.org](https://arxiv.org/pdf/1908.01815.pdf).
 
 ## Experience
 
