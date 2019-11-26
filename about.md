@@ -57,7 +57,7 @@ Fall 2018 \| **Neural Networks** , M.Sc., Instructor: Dr. Naser Mozayeni
 
 ### Teaching
 
-2019 | **Teach fundamental of Machine Learning and its use cases in industry** in Iran Research Institute of Petroleum Industry.
+2019  \|  **Teach fundamental of Machine Learning and its use cases in industry** in Iran Research Institute of Petroleum Industry.
 
 ## Work Experience
 
