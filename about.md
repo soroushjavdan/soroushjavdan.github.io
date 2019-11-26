@@ -5,40 +5,29 @@ permalink: /about/
 published: true
 ---
 
-# Soroush Javdan
+I have been always a scholarly person since I was a little kid and I wanted to become a Computer Scientist in future. No sooner had I entered high school, then this desire become stronger and having started my major; I come to the realization that how much obsess I am with Computer Science and more importantly developing and creating new concepts; therefore I studied hard in high school; eventually I got a good result in entrance exam and accepted in a well-known state university. generally, I consider my self as a fighter since I faced a lot of difficulty in my life but in the end, I did my best to come up with viable solutions.  Moreover, I keen on doing sport and no matter how much busy I am I do my regular work out and find a balance between my life and study. Also, I am great in team working and an extremely inventive person.
 
-## Contact me
-Email: soroush\_javdan@comp.iust.ac.ir
+
 
 ## Education
 
-Master Degree | Iran University of Science and Technology
+2017 – 2019 | Master Degree | Iran University of Science and Technology
+Supervisor: Dr. Morteza Analoui | GPA: 3.77
 
-2017 – 2019
-
-Supervisor: Dr. Morteza Analoui
-
-GPA: 3.77
-
-Bachelor Degree | Kharazmi University, Tehran, Iran
-
-2010 – 2015
-
+2010 – 2015 | Bachelor Degree | Kharazmi University, Tehran, Iran
 Supervisor: Dr. Azadeh Mansouri
 
 Bachelor Thesis: Video summarization using the motion vector
-
 Using the MPEG algorithm to extract motion vectors from each frame, then using the K-mean algorithm to cluster frames in order to extract key frames and create a final summary base on them.
-
 Thesis Grade: 20/20
 
 ## Research Interest
 
- Natural Language Processing    Deep Learning
-
- Reinforcement Learning    Data Mining
-
- Meta Learning
+- Natural Language Processing
+- Deep Learning
+- Reinforcement Learning
+- Data Mining
+- Meta Learning
 
 ## Publication
 
@@ -103,17 +92,30 @@ Teaching
 
 ## Computer Skills
 
-- **Programming               ** Python, Jave, Matlab, Kotlin
- **Languages       **
-- **Software Packages    ** Pytorch, Keras, TensorFlow, skit-learn, Gensim, Android Framework
-**and Frameworks**
+#### Programming Languages              
+- Python,
+- Jave
+- Matlab
+- Kotlin
+
+#### Software Packages and Frameworks
+- Pytorch
+- Keras
+- TensorFlow
+- skit-learn
+- Gensim
+- Android 
+
 
 ## Interests
 
- Water Polo (professional)    Swimming (professional)
+- Water Polo (professional)
+- Swimming (professional)
+- Hiking
+- Blogging
+- Traveling
+- Volunteering
+- Gardening
 
- Hiking       Blogging
-
- Traveling      Volunteering
-
- Gardening
+### Contact me
+Email: soroush\_javdan@comp.iust.ac.ir
