@@ -11,10 +11,10 @@ I have been always a scholarly person since I was a little kid and I wanted to b
 
 ## Education
 
-2017 – 2019 | Master Degree | Iran University of Science and Technology
-Supervisor: Dr. Morteza Analoui | GPA: 3.77
+2017 – 2019 \| Master Degree	Iran University of Science and Technology
+Supervisor: Dr. Morteza Analoui \| GPA: 3.77
 
-2010 – 2015 | Bachelor Degree | Kharazmi University, Tehran, Iran
+2010 – 2015 \| Bachelor Degree	Kharazmi University, Tehran, Iran
 Supervisor: Dr. Azadeh Mansouri
 
 Bachelor Thesis: Video summarization using the motion vector
