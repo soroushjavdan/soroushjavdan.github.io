@@ -59,12 +59,12 @@ Fall 2018 | **Neural Networks** , M.Sc., Instructor: Dr. Naser Mozayeni
 
 2019 | **Teach fundamental of Machine Learning and its use cases in industry** in Iran Research Institute of Petroleum Industry.
 
-### Work Experience
+## Work Experience
 
-2017 – Present     **Python and Machine Learner Freelancer**
-2015 – 2017        **Software Engineer, Machine Learning,** Software Engineer at NetBarg.com
-2015 – 2017         **Freelance Software Engineer**
-2013 – 2015        **Android Developer,** Senior Android Developer at IRISTed
+2017 – Present \| **Python and Machine Learner Freelancer**
+2015 – 2017 \| **Software Engineer, Machine Learning,** Software Engineer at NetBarg.com
+2015 – 2017 \| **Freelance Software Engineer**
+2013 – 2015 \| **Android Developer,** Senior Android Developer at IRISTed
 
 ## Honors and Awards
 
