@@ -31,11 +31,11 @@ Thesis Grade: 20/20
 
 ## Publication
 
-S. Javdan, K. Darvishi, T. Shangipour Ataei, B. Minaei-Bidgoli, &quot;Offensive Language Detection on Persian Social Media&quot;, under review.
+**S. Javdan**, K. Darvishi, T. Shangipour Ataei, B. Minaei-Bidgoli, &quot;Offensive Language Detection on Persian Social Media&quot;, under review.
 
-S. Javdan, T. Shangipour Ataei, K. Darvishi, M. Analoui, &quot;Personalizing Dialogue Agent via Improved Meta-Learning&quot;, under review.
+**S. Javdan**, T. Shangipour Ataei, K. Darvishi, M. Analoui, &quot;Personalizing Dialogue Agent via Improved Meta-Learning&quot;, under review.
 
-T. Shangipour Ataei, K. Darvishi, S. Javdan ,B. Minaei-Bidgoli, S. Eetemadi &quot;Pars-ABSA: an Aspect-based Sentiment Analysis dataset for Persian&quot;, preprint available at [arxiv.org](https://arxiv.org/pdf/1908.01815.pdf).
+T. Shangipour Ataei, K. Darvishi, **S. Javdan** ,B. Minaei-Bidgoli, S. Eetemadi &quot;Pars-ABSA: an Aspect-based Sentiment Analysis dataset for Persian&quot;, preprint available at [arxiv.org](https://arxiv.org/pdf/1908.01815.pdf).
 
 ## Experience
 
