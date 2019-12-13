@@ -26,6 +26,7 @@ Thesis Grade: 20/20
 - Natural Language Processing
 - Deep Learning
 - Reinforcement Learning
+- Computational Biology
 - Data Mining
 - Meta Learning
 
