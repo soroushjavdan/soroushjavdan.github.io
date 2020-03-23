@@ -90,7 +90,7 @@ Fall 2018 \| **Neural Networks** , M.Sc., Instructor: Dr. Naser Mozayeni
 
 **Multi-agent Simulation of Auctions** ; &quot;Multi Agents&quot; course final project
 
-**Develop software to help optimizing control valve in order to energy saving**** in Gheshm Sarkhun Gas Refinery**; work as a freelancer for Iran Research Institute of Petroleum Industry
+**Develop software to help optimizing control valve in order to energy saving in Gheshm Sarkhun Gas Refinery**; work as a freelancer for Iran Research Institute of Petroleum Industry
 
 ## Test Scores
 - TOEFL 104 (R:28 L:30 S:23 W:23)
