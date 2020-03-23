@@ -24,17 +24,14 @@ Thesis Grade: 20/20
 ## Research Interest
 
 - Natural Language Processing
-- Deep Learning
-- Reinforcement Learning
-- Computational Biology
 - Data Mining
+- Software Engineering
+- Reinforcement Learning
 - Meta Learning
 
 ## Publication
 
 **S. Javdan**, K. Darvishi, T. Shangipour Ataei, B. Minaei-Bidgoli, &quot;Offensive Language Detection on Persian Social Media&quot;, under review.
-
-**S. Javdan**, T. Shangipour Ataei, K. Darvishi, M. Analoui, &quot;Personalizing Dialogue Agent via Improved Meta-Learning&quot;, under review.
 
 T. Shangipour Ataei, K. Darvishi, **S. Javdan** ,B. Minaei-Bidgoli, S. Eetemadi &quot;Pars-ABSA: an Aspect-based Sentiment Analysis dataset for Persian&quot;, preprint available at [arxiv.org](https://arxiv.org/pdf/1908.01815.pdf).
 
@@ -48,6 +45,8 @@ A member of Future Network and Artificial Intelligent Lab at Iran University of 
 
 ### Teacher Assistance
 
+Winter 2020 \| **Data Mining** , M.Sc., Instructor: Dr. Behrouz Minaei Bidgoli
+
 Fall 2019 \| **Natural Language Processing** , M.Sc., Instructor: Dr. Behrouz Minaei Bidgoli
 
 Fall 2019 \| **Machine Translation** , M.Sc., Instructor: Dr. Behrouz Minaei Bidgoli
@@ -56,13 +55,10 @@ Fall 2019 \| **Pattern Recognition** , M.Sc., Instructor: Dr. Morteza Analoui
 
 Fall 2018 \| **Neural Networks** , M.Sc., Instructor: Dr. Naser Mozayeni
 
-### Teaching
-
-2019  \|  **Teach fundamental of Machine Learning and its use cases in industry** in Iran Research Institute of Petroleum Industry.
 
 ## Work Experience
 
-2017 – Present \| **Python and Machine Learner Freelancer**
+2017 – Present \| **Machine Learner Freelancer**
 
 2015 – 2017 \| **Software Engineer, Machine Learning,** Software Engineer at NetBarg.com
 
@@ -117,7 +113,6 @@ Fall 2018 \| **Neural Networks** , M.Sc., Instructor: Dr. Naser Mozayeni
 
 
 ## Interests
-
 - Water Polo (professional)
 - Swimming (professional)
 - Hiking
