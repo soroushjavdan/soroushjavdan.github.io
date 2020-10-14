@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Paper Summry - Code Review - Part 1
@@ -75,14 +75,4 @@ published: false
 * Their primary contributions(what I see): They proposed an acceptable approach to utilize all parts of the code snippet and simultaneously use code context.
 
 * Proposed feature work: 
-	* Train a single model for recommending reviews for different programming languages( can be done by meta-learning!) 
-       
-       
-    
-   
-        
- 
-    
-    
-    
-    
+	* Train a single model for recommending reviews for different programming languages( can be done by meta-learning!)
