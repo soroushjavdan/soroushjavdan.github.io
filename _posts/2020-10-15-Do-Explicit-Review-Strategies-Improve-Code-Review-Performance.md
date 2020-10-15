@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Paper summary - Do Explicit Review Strategies Improve Code Review Performance?
@@ -66,11 +66,3 @@ published: false
 * I can't clearly tell their primary contributions(what I see) since there aren't any available results.
 
 * Proposed feature work: Improving the checklist strategy to a more dynamic form. Maybe using a recommendation system to assign review with respect to developers' characteristics.
-
-
-   
-    
-    
-    
-    
-    
