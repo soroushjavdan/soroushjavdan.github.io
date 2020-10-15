@@ -57,14 +57,12 @@ published: true
 	* Candidate review selection: First, all parts(upper, current, lower) of the new code snippets will be feed through the LSTMs to get the encoded representation of them. Then, the cosine similarity between the new and all the code snippets in the repository (for all the three parts individually) will be calculated. Finally, the reviews from code snippets similar to new code snippets will be selected as candidates.
     
     
-    
- * Results
- 
- 	* They used the TF-IDF and logistic regression method as their baseline.
+* Results
+	* They used the TF-IDF and logistic regression method as their baseline.    
     * They randomly generated 49 -ve pairs for each positive pair. Then they calculated the relevance score for all of these 50 pairs and ranked them with that score. They used this ranking to calculate their metrics.
     * They used Mean reciprocal rank measures. Mean reciprocal rank measures the ranking quality by assuming that there exists only one relevant review. Hence it penalizes all other reviews apart from the current one.
     
-    ![Screen Shot 2020-10-14 at 11.19.14 PM.png]({{site.baseurl}}/_posts/Screen Shot 2020-10-14 at 11.19.14 PM.png)
+    ![]({{site.baseurl}}/_posts/Screen Shot 2020-10-14 at 11.19.14 PM.png)
 
 
 * User study
