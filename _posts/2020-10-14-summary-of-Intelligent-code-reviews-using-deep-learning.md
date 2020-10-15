@@ -2,7 +2,7 @@
 published: true
 ---
 
-## Paper summary - Intelligent code reviews using deep learning
+## Code Review Paper summary - Part 1
 
 * **Title**: Intelligent code reviews using deep learning
 * **Authors**: Anshul Gupta, Neel Sundaresan
