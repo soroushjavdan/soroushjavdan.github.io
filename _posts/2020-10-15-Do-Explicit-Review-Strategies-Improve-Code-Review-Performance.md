@@ -2,7 +2,7 @@
 published: true
 ---
 
-## Paper summary - Do Explicit Review Strategies Improve Code Review Performance?
+## Code Review Paper summary - Part 2
 
 * **Title**: Do Explicit Review Strategies Improve Code Review Performance?
 * **Authors**: Pavlína Wurzel Gonçalves, Enrico Fregnan, Tobias Baum, Kurt Schneider, Alberto Bacchelli
