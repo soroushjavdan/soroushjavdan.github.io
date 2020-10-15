@@ -43,7 +43,7 @@ published: true
     
 	* Their proposed Deep Learning model
     		
-	![]({{site.baseurl}}/_posts/BB89130C-307E-4F49-82C6-57DF72732A66.jpg)
+	![]({{site.baseurl}}/images/DCR_ARCH.jpg)
 
             
     * General workflow:
@@ -62,7 +62,7 @@ published: true
     * They randomly generated 49 -ve pairs for each positive pair. Then they calculated the relevance score for all of these 50 pairs and ranked them with that score. They used this ranking to calculate their metrics.
     * They used Mean reciprocal rank measures. Mean reciprocal rank measures the ranking quality by assuming that there exists only one relevant review. Hence it penalizes all other reviews apart from the current one.
     
-    ![]({{site.baseurl}}/_posts/Screen Shot 2020-10-14 at 11.19.14 PM.png)
+    ![]({{site.baseurl}}/images/DCR.png)
 
 
 * User study
