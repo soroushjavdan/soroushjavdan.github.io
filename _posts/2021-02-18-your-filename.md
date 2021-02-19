@@ -1,8 +1,15 @@
 ---
 published: false
 ---
-## A New Post
+## Code Review Paper summary - Part 3
 
+* **Title**: [On-Demand Developer Documentation](https://www.cs.mcgill.ca/~martin/papers/icsme2017nier-od3.pdf.pdf)
+* **Authors**: Martin P. Robillard, Andrian Marcus, Christoph Treude,
+Gabriele Bavota, Oscar Chaparro†, Neil Ernst, Marco Aure ́lio Gerosa∥, Michael Godfrey,
+Michele Lanza, Mario Linares-Va ́squez††, Gail C. Murphy, Laura Morenox, David Shepherdxi, and Edmund Wong
+
+* **Tags**: Documentation, Summarazation
+* **Year**: 2017
 
 
 
@@ -54,6 +61,43 @@ The existing challenges could divided in three main part. This is mainly because
     
     
 ### Document Request
+
+The challenge here is that developer may not have complete understanding about what they are asking for, or even they might have a wrong perception.
+Another challenge is different developers background.
+
+* Expressing Information Needs:
+	* An OD3 system should understand the technologies that a developer is using along with their documentation and interdependencies, as well as the developer’s objective.
+
+* Capturing Task Context:
+	* OD3 system can build upon task context, defined as the program elements and relationships relevant to completing a particular task.
+    * The application of natural language processing to artifacts produced by software developers (e.g., method names , issue trackers, or documentation) appears to be the most promising research direction for capturing and understanding task context.
+    
+* Personalization:
+	* An OD3 system could learn implicitly from the queries that a developer makes, using queries as a proxy for a knowledge gap of a particular developer, or by explicitly asking developers what they know.
+    
+* Awareness of Available Information: 
+	* A particular challenge is the vocabulary gap that exists between documentation producers and consumers
+
+	* Structured queries, semantic search [40], indexing of the available documentation, and content-sensitive auto-complete interfaces could be employed! but they dont have a good perception of developers needs.
+
+### Document Generation
+In this phase OD3 systems need to combined different information from different artifact to come up with useful documentation for developer.
+
+* Selection:
+	* What makes this problem particularly difficult is that the selection criteria depend on the task context and the specific information need of the developer.
+    * implementation. Existing research in generating documentation, has focused on context independent approaches and typically generates generic documentation, based on builtin heuristics.
+* Summarization and Synthesis:
+	* A second challenge is deciding how many of the selected documentation elements should be included in the documentation.
+    * Like other sections the developer context could be challenging to address!
+    * Summarizing base on directly extracting info from artifact has been addressed! but there was not much work on abstracting those information.
+    
+* Presentation:
+	* Existing research focused on producing hierarchical documents that reveal information at lower abstraction level on-demand, via interaction with the user.
+    
+
+# Conclusion
+This research aimed to discuss direction and challenges in the way of developing OD3. They mention some of the challenges which have to address in the future! 
+
 
 
 
