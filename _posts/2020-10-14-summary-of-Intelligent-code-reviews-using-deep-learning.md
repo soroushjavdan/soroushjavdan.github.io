@@ -8,7 +8,7 @@ published: true
 * **Authors**: Anshul Gupta, Neel Sundaresan
 * **Link**: [https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_40.pdf](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_40.pdf)
 * **Tags**: Supervised learning, Neural networks, Software functional properties
-* **Year**: 2018
+* **Year**: 2020
 
 # Summary
 
