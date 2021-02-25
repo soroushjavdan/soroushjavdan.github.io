@@ -39,8 +39,28 @@ Here is an overview of GitterAns bot:
 
 * GitterAns is able to find the correct answers only in about half of the cases.
 	* It is critical to choose a proper query for information retrieval applications on software engineering data [18]
-   
+    * Using whole throubleshooting question can present too many noise! 
+	* They removed queries noise and just used exact error msg (e.g., Module did not self-register on bcrypt module), and it shown that it can boost the result.
 
+* GitHub Issues, per- sonal e-mail, Gitter, Twitter, and mailing lists are the five most popular communication channels currently used in open source development. **Slack was found to be eighth in terms of popularity among all the communication means observed!!!**
+
+* All elements justifying the made decisions in message constitute **rationale**(rational message).
+
+# Future work
+Theirs:
+	1. Remove the noise from messages containing troubleshooting questions
+    2. Improving the classification of messages.
+    3. Perform a large-scale evaluation/involve real developers in the evaluation.
+Mine:
+	1. Extract tags and search question based on them.
+    2. Develop a bot to find a question inside the channel from the previous msg (if possiblle)
+    
+    
+    
+    
+    
+    
+    
 
 
 
