@@ -1,9 +1,15 @@
 ---
 published: false
 ---
-## A New Post
+## Software-Engineering Chat-bot - Part 1
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+* **Title**: Software-related Slack Chats with Disentangled Conversations
+* **Authors**: Preetha Chatterjee, Kostadin Damevski, Nicholas A. Kraft, Lori Pollock
+* **Link**: [https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/8/2570/files/2020/03/MSR20_Data.pdf](https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/8/2570/files/2020/03/MSR20_Data.pdf)
+* **Tags**: online software developer chats, chat disentanglement, chat-bot
+* **Year**: 
+
+# Summary
 
 
 # What:
