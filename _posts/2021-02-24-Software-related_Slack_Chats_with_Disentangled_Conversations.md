@@ -5,9 +5,9 @@ published: false
 
 * **Title**: Software-related Slack Chats with Disentangled Conversations
 * **Authors**: Preetha Chatterjee, Kostadin Damevski, Nicholas A. Kraft, Lori Pollock
-* **Link**: [https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/8/2570/files/2020/03/MSR20_Data.pdf](https://cpb-us-w2.wpmucdn.com/sites.udel.edu/dist/8/2570/files/2020/03/MSR20_Data.pdf)
+* **Link**: [https://dl.acm.org/doi/10.1145/3387940.3391505](https://dl.acm.org/doi/10.1145/3387940.3391505)
 * **Tags**: online software developer chats, chat disentanglement, chat-bot
-* **Year**: 
+* **Year**: 2020
 
 # Summary
 
